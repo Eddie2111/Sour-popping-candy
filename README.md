@@ -1,5 +1,5 @@
-# CSE421_ComputerNetworks
-This repository contains all the lab assignments done in the CSE421 course of BracU.
+# Networks?
+This repository contains nothing.
 
 # Resources:
 1. https://www.youtube.com/playlist?list=PLaVWjQSl4Org86UR7e8z1Z_t00HEvP98p
