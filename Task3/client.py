@@ -1,3 +1,6 @@
+### Ignore this practice file
+
+##########################################
 import socket;
 
 buffer_size = 50
@@ -24,6 +27,8 @@ def send_handler(message):
 send_handler('hello')
 send_handler('End')
 print("Client has started")
+###########################################
 
+###########################################
 
 
