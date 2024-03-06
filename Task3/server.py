@@ -1,3 +1,6 @@
+### Ignore this practice file
+
+###################################################
 import socket;
 
 buffer_size = 50
@@ -31,4 +34,4 @@ while True:
         else:
             print(message)
 
-
+#####################################################
